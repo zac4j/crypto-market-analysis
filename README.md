@@ -1,2 +1,2 @@
 # crypto-price-prediction
-Cryptocurrency Price Prediction with Machine Learning Methods
+Cryptocurrency Prediction with Machine Learning Methods
