@@ -1,0 +1,3 @@
+[submodule "btc-price-prediction"]
+	path = btc-price-prediction
+	url = https://github.com/zac4j/btc-price-prediction.git
