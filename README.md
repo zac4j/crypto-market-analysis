@@ -7,15 +7,13 @@ This repository explores various machine learning models for analysis cryptocurr
 * The project utilizes top cryptocurrencies historical data to train and test the models.
 * The code is written in Python (specify libraries used like pandas, scikit-learn) in Jupyter Notebook.
 * Empoly **Supervised learning** models (e.g., Linear Regression, Support Vector Machines) to predict Bitcoin prices.
-* Leverage **unsupervised learning** models (e.g., K-Means clustering) to identify patterns or insights from the data.
+* Leverage **unsupervised learning** methods (e.g., K-Means clustering) to identify patterns or insights from the trading data.
 
 ## Implementation
 
-- Completed
-  - [Predicting Bitcoin Price with Supervised Learning Methods](https://github.com/zac4j/btc-price-prediction)
-  - Cryptocurrency Market Analysis with Unsupervised Learning Methods
-- TBD
-  - Cryptocurrency Market Analysis with Deep Learning Methods
+- [Predicting Bitcoin Price with Supervised Learning Methods](https://github.com/zac4j/btc-price-prediction) - Done
+- [Cryptocurrency Market Analysis with Unsupervised Learning Methods](https://github.com/zac4j/crypto-market-analysis/blob/main/crypto-market-analysis-usl-methods.ipynb) - Done
+- Cryptocurrency Market Analysis with Deep Learning Methods - TBD
 
 ## Future Work
 
@@ -25,6 +23,6 @@ This repository explores various machine learning models for analysis cryptocurr
 
 ### Disclaimer
 
-Cryptocurrency Market Analysis is a complex task, and the models implemented here are for educational purposes only. The analysis should not be considered financial advice.
+Cryptocurrency Market Analysis is a complex task, and the models implemented here are for my educational purposes only. The analysis should not be considered financial advice.
 
 
