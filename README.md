@@ -12,7 +12,7 @@ This repository explores various machine learning models for analysis cryptocurr
 ## Implementation
 
 - [Predicting Bitcoin Price with Supervised Learning Methods](https://github.com/zac4j/btc-price-prediction) - Done
-- [Cryptocurrency Market Analysis with Unsupervised Learning Methods](https://github.com/zac4j/crypto-market-analysis/blob/main/crypto-market-analysis-usl-methods.ipynb) - Done
+- [Cryptocurrency Market Analysis with Unsupervised Learning Methods](https://github.com/zac4j/crypto-market-analysis/blob/main/unsupervised%20learning/crypto-market-analysis-usl-methods.ipynb) - Done
 - Cryptocurrency Market Analysis with Deep Learning Methods - TBD
 
 ## Future Work
